@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-solid",
+  "version": "1.0.0",
+  "description": "Projeto API NodeJs conceito SOLID",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rodrigo Mesquita",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemailer": "^6.6.0",
+    "uuid4": "^2.0.2"
+  }
+}
